@@ -200,8 +200,18 @@ img {
   letter-spacing: 1px;
 }
 
-.site-description {
+.site-pronouns {
   margin: -5px 0 0 0;
+  color: $gray;
+  font-size: 16px;
+
+  @include mobile {
+    margin: 3px 0;
+  }
+}
+
+.site-description {
+  margin: 1;
   color: $gray;
   font-size: 16px;
 
