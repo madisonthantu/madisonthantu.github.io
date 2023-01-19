@@ -1,51 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>DREAM Project Site – Madison G. Thantu – A first year Master's student in Computer Science at Columbia University hoping to utilize my technical skillset in an interdisciplinary, social justice-oriented manner.</title>
-
-        <meta charset="utf-8" />
-    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
-
-    
-    <meta name="description" content="A first year Master's student in Computer Science at Columbia University hoping to utilize my technical skillset in an interdisciplinary, social justice-oriented manner.">
-    <meta property="og:description" content="A first year Master's student in Computer Science at Columbia University hoping to utilize my technical skillset in an interdisciplinary, social justice-oriented manner." />
-    
-    <meta name="author" content="Madison G. Thantu" />
-
-    
-    <meta property="og:title" content="DREAM Project Site" />
-    <meta property="twitter:title" content="DREAM Project Site" />
-    
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <link rel="stylesheet" type="text/css" href="/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="Madison G. Thantu - A first year Master's student in Computer Science at Columbia University hoping to utilize my technical skillset in an interdisciplinary, social justice-oriented manner." href="/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
-
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="/" class="site-avatar"><img src="https://madisonthantu.github.io/images/avatar.png" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="/">Madison G. Thantu</a></h1>
-            <p class="site-description">A first year Master's student in Computer Science at Columbia University hoping to utilize my technical skillset in an interdisciplinary, social justice-oriented manner.</p>
-          </div>
-
-        </header>
-      </div>
-    </div>
-
-    <div id="main" role="main" class="container">
-      <ul id="markdown-toc">
+I"B<ul id="markdown-toc">
   <li><a href="#about-me" id="markdown-toc-about-me">About Me</a></li>
   <li><a href="#about-my-advisor" id="markdown-toc-about-my-advisor">About My Advisor</a></li>
   <li><a href="#about-my-project" id="markdown-toc-about-my-project">About My Project</a></li>
@@ -136,28 +89,4 @@ KEY POINTS:
 <p>You can contact me via e-mail at 
 <a href="mailto:madison.g.thantu@columbia.edu">madison.g.thantu@columbia.edu</a>
  or at <a href="mailto:madisonthantu@gmail.com">madisonthantu@gmail.com</a>, and feel free to connect on <a href="www.linkedin.com/in/madisonthantu">LinkedIn</a>.</p>
-
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          
-<a href="mailto:yourmail@mail.com"><i class="svg-icon email"></i></a>
-
-
-
-
-
-
-
-
-
-
-
-        </footer>
-      </div>
-    </div>
-
-  </body>
-</html>
+:ET
