@@ -247,8 +247,20 @@ img {
   letter-spacing: 1px;
 }
 
-.site-description {
+.site-pronouns {
   margin: -5px 0 0 0;
+  color: #666;
+  font-size: 16px;
+}
+
+@media screen and (max-width: 640px) {
+  .site-pronouns {
+    margin: 3px 0;
+  }
+}
+
+.site-description {
+  margin: 1;
   color: #666;
   font-size: 16px;
 }
