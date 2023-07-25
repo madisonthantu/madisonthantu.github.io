@@ -76,7 +76,8 @@ KEY POINTS:
 - estimate long-term user behavior under various recommendation algorithms
 - conduct a comparative analysis of these models and their effects on accuracy, recommendation quality, homogeneity, and fairness. -->
 
-[My Final Report](files/finalreport.pdf) (*In progress*)
+[My Final Report](files/Madison_Thantu_DREAM_Report.pdf)
+<object data="files/Madison_Thantu_DREAM_Report.pdf" width="800" height="300" type='application/pdf'></object>
 
 ## My Blog
 
