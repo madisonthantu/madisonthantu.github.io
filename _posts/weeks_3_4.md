@@ -3,7 +3,7 @@ layout: post
 title: Weeks 3-4
 ---
 
-After surveying the field of RS literature, my research partner and I identified several RS properties that were of interest to us: diversity, user behavior homogenization, and user fairness. 
+After surveying the field of RS literature, my research partner and I identified several phenomena of interest to us that existing literature has shown to emerge from RS models: specifically that of filter bubbles and user behavior homogenization.
 
 After the ideation phase, the next step was to outline our project design, during which we determined our:
 1. *Primary research questions*: 
